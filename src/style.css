@@ -1,3 +1,7 @@
 html, body {
   background: coral;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
