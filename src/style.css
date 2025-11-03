@@ -29,6 +29,8 @@
 @theme {
   --color-primary: #9900CC; 
   --color-secondary: #D699EB; 
+  --color-success: #00F937; 
+  --color-defeat: #D00000; 
   --font-primary: "Kenyan Coffee Rg";
   --font-secondary: "Komikazoom";
 }
